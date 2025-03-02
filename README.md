@@ -1,4 +1,4 @@
-#USAGE: 'node main.js "path/to/model/file" (optional: false)
+# USAGE: 'node main.js "path/to/model/file" (optional: false)
 
 The script will make a folder in the directory of the script named "data" with the JSON file inside, and if using imageStream will make a "tex" folder where the final images will go
 Note: It will make a bunch of nondescript files within the folder, these are just placeholders for the image data, as python doesn't handle a lot of data at once very well
